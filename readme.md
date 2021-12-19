@@ -2,9 +2,9 @@
 
 ![Get all animals](Screenshots/Get_all.png)
 
-## Get all animals by id
+## Get animals by id
 
-![Get all animals by id](Screenshots/Get_all_by_id.png)
+![Get animals by id](Screenshots/Get_all_by_id.png)
 
 ## Create animals
 
